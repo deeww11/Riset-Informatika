@@ -10,8 +10,3 @@ Folder ini berisi dokumen proposal penelitian untuk mata kuliah Riset Informatik
 
 Proposal penelitian mencakup latar belakang, rumusan masalah, batasan masalah, tujuan dan manfaat penelitian, landasan teori, penelitian terdahulu, serta metodologi penelitian.
 
-## Berkas
-
-- `Proposal Penelitian.docx` — dokumen proposal penelitian.
-
-Dokumen akan diperbarui sesuai dengan perkembangan penelitian dan masukan dosen pengampu.
